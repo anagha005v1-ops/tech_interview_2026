@@ -31,3 +31,11 @@ This project is a modified version of the FOSS Club website template. The follow
 ```bash
 git clone https://github.com/your-username/tech_interview_2026.git
 cd tech_interview_2026
+---
+
+### 3. Deployed link address
+
+''''bash
+https://anagha005v1-ops.github.io/tech_interview_2026/
+
+
